@@ -555,7 +555,7 @@ sub gmtime_startofyear {
 
 =head1 DESCRIPTION
 
-B<EARLY RELEASE: SOME FUNCTIONS ARE NOT IMPLEMENTED YET.>
+B<EARLY RELEASE: API MIGHT CHANGE.>
 
 Overview of the module:
 
